@@ -1,7 +1,7 @@
 # Santander Bootcamp 2021 - Trilha Fullstack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shyoutarou/cadpessoas-api/master/.github/santander_2.gif" alt="cadpessoas-api" width="650px" />
+  <img src="https://raw.githubusercontent.com/shyoutarou/pontoacesso/master/.github/santander_2.gif" alt="pontoacesso" width="650px" />
 </p>
 
 <h2 align="center">
@@ -32,7 +32,7 @@ Durante o evento Santander Bootcamp 2021 - Trilha Fullstack, foi desenvolvido de
 ### Web Interface
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shyoutarou/cadpessoas-api/master/.github/demo_web.gif" alt="Spring Web" width="100%" />
+  <img src="https://raw.githubusercontent.com/shyoutarou/pontoacesso/master/.github/demo_web.gif" alt="Spring Web" width="100%" />
 </p>
 
 ## Utilitários
